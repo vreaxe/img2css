@@ -1,0 +1,32 @@
+{
+  "name": "img2css",
+  "version": "0.0.1",
+  "description": "Converts an image to css",
+  "repository" : { 
+    "type" : "git", 
+    "url" : "https://github.com/vreaxe/img2css.git"
+  },
+  "bin": {
+    "img2css": "index.js"
+  },
+  "preferGlobal": true,
+  "author": {
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "files": [
+    "img2css.js",
+    "index.js"
+  ],
+  "keywords": [
+  	"css",
+  	"image"
+  ],
+  "dependencies": {
+    "canvas": ">=1.2.1",
+    "update-notifier": ">=0.3.1"
+  },
+  "devDependencies": {
+  }
+}
