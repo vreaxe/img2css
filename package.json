@@ -20,8 +20,8 @@
     "index.js"
   ],
   "keywords": [
-  	"css",
-  	"image"
+    "css",
+    "image"
   ],
   "dependencies": {
     "canvas": ">=1.2.1",
