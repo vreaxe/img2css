@@ -24,7 +24,7 @@
     "image"
   ],
   "dependencies": {
-  	"commander": "^2.7.1",
+    "commander": "^2.7.1",
     "canvas": "^1.2.1"
   },
   "devDependencies": {
