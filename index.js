@@ -2,11 +2,7 @@
 'use strict';
 
 var program = require('commander');
-var updateNotifier = require('update-notifier');
-var pkg = require('./package.json');
 var Img2CSS = require('./img2css.js');
-
-updateNotifier({pkg: pkg}).notify();
 
 var img2css = new Img2CSS();
 
